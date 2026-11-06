@@ -12,35 +12,49 @@ h1 {
 header {
     padding: 1.5rem 2rem;
     border-bottom: 5px solid black;
+    text-align: center;
 }
 
 nav a {
     color: salmon;
 }
-
+.metodospreparacion {
+    margin-top: 155px;
+    padding: 6px;
+    text-align: center;
+    font-size: 1.1rem;
+}
+.metodospreparacion2 {
+    text-align: center;
+    font-size: 1.1rem;
+}
 main {
     padding: 2rem 3rem;
     max-width: 800px;
     margin: 0 auto;
-    margin-left: -2rem;
+    
 }
-
 .metodo-titulo {
     font-size: 1.1rem;
     letter-spacing: 0.05em;
     text-transform: uppercase;
     margin-bottom: 0.25rem;
     color: chocolate;
+    
 }
+.direccion {
+   float: left;
+}
+
 
 .precio {
     font-weight: bold;
     color: saddlebrown;
 }
-
 .imagen-horario {
-    padding: 2rem 5rem;    
+    padding: 10.1rem 5rem;    
     color: saddlebrown;
+    text-align: center;
     
 }
 
